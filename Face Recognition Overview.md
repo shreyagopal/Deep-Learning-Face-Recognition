@@ -27,3 +27,10 @@ training images. These newer systems were able to recognize people's faces nearl
 * Researchers outside of these big companies have to work a little bit harder to build their own training data sets from images posted publicly online. 
 * But the end result is that face recognition is now available to almost anyone in all kinds of products. 
 * Whether you're uploading a picture to a social network, walking into an airport, or looking at an electronic billboard, there's a good chance that face recognition systems are in use.
+
+**Face Recognition Applications** <br>
+* Identity Verification
+* Automatically organizing raw photo libraries by person
+* Tracking a specific person
+* Counting unique people
+* Finding people with similar appearences or doppelganger
