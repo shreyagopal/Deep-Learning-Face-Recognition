@@ -22,3 +22,8 @@ that could be trained on millions of images and recognize faces with high accura
 training images. These newer systems were able to recognize people's faces nearly as well as humans.
 
 **Face Recognition Now Widely Available** <br>
+* Research done on face recognition is being shared openly within the machine learning community and is available for anyone to use. 
+* But even if you now how to build a face recognition system, you still need a large data set of images of people to train it. Companies like Facebook and Google already have access to large data sets like this since they have millions of users uploading photos of themselves every day. 
+* Researchers outside of these big companies have to work a little bit harder to build their own training data sets from images posted publicly online. 
+* But the end result is that face recognition is now available to almost anyone in all kinds of products. 
+* Whether you're uploading a picture to a social network, walking into an airport, or looking at an electronic billboard, there's a good chance that face recognition systems are in use.
