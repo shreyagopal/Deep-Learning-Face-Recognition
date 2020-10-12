@@ -47,6 +47,7 @@ Several large vendors provide face recognition APIs that you can use over the in
 While commercial options are great in many cases, they require an internet connection to use, and you have to pay a small fee each time you use them. Also, using those services requires uploading all your face data to a third-party, since the face recognition happens on their computers in the cloud.
 ## **Open-Source Tools** 
 For some applications, it's better to be able to do face recognition without a data connection and without having to share your data with anyone. In these cases, open-source face recognition systems might be a better choice. These systems can run locally on your computer, without any external connections and without sharing any data. Two of the most popular tools are:
-* OpenFace, created by Brandon Amos at Carnegie Mellon
-* Dlib, created by Davis King. 
-
+* OpenFace <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;created by Brandon Amos at Carnegie Mellon
+* Dlib <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;created by Davis King.
