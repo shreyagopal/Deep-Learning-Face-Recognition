@@ -1,4 +1,4 @@
-# **What is face recognition?**
+# **What is Face Recognition?**
 Face recognition is the ability to look at the digital image of a human and recognize the person just by looking at the face. Humans have a built-in ability 
 to recognize other people's faces. From just a few months old, most infants have the ability to recognize familiar faces. But teaching computers to recognize 
 faces is a difficult problem that has taken decades of research to solve.
